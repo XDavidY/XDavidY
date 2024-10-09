@@ -1,83 +1,67 @@
-#  Full Stack Developer | Django | React | Node.js | Vue | Laravel
-## Hi, I am Saamir Bin Badri! 👋
+# David Yang - Full Stack Web & Blockchain Developer 🚀
+### Building Scalable Solutions One Line of Code at a Time
+Hi there! 👋 I'm David Yang, a passionate and versatile Full Stack Web & Blockchain Engineer with 6+ years of experience in crafting innovative, scalable, and maintainable solutions. I thrive in fast-paced, collaborative environments where problem-solving and attention to detail matter most. 
 
-### 💻Tech Stack
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-  <br><br>
-</p>
+I’m always excited about tackling new challenges, experimenting with emerging technologies, and finding more efficient ways to build modern applications. 
 
-<hr>
+Let’s build something amazing together! 💻
 
+---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=saamirbinbadri&column=8)](https://github-profile-trophy.vercel.app/?username=saamirbinbadri&column=8)
+### 🚀 **What Drives Me:**
+- A passion for creating efficient, maintainable, and scalable code with a focus on **DRY** principles.
+- Enthusiastic about every stage of the development process, from ideation to production.
+- Strong advocate for transparent and frequent communication to ensure smooth collaboration and delivery.
 
- <br>
+---
 
+### 🛠 **Core Skill Set:**
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+#### Languages
+JavaScript | TypeScript | Python | C++ | GraphQL | Solidity
 
+#### Frontend Development
+React.js | Next.js | Vue.js | Redux | jQuery | Chakra UI | Tailwind CSS | Bootstrap | Responsive Web Design | PWA (Progressive Web Apps)
 
+#### Backend Development
+Node.js | Python | Django | GraphQL (Apollo) | Laravel | Express.js
 
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
+#### Databases
+MongoDB | MySQL | PostgreSQL | Firebase | Redis
+
+#### Cloud & DevOps
+AWS (Cognito, Lambda, S3, EC2) | Docker | Kubernetes | GitHub Actions | Bitbucket Pipelines | CircleCI
+
+#### APIs
+RESTful APIs | GraphQL | Google Maps API | Stripe API | Web3 Integration
+
+---
+
+### 📊 **GitHub Stats**
+
+<div>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=XdavidY&count_private=true" width="50%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XdavidY&layout=compact" width="42%"/>
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+### 🔥 **Featured Projects**
 
+#### Web Projects
+- **EcomMaster:** A scalable e-commerce platform with real-time inventory management, built with React, Node.js, and PostgreSQL.
+- **TaskFlow:** A project management tool designed to streamline team collaboration, featuring role-based access and task automation, built with Vue.js and Django.
 
-### Backend  
-<div align="center">   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />
-</div>
+#### Blockchain Projects
+- **DeFi Platform:** A decentralized finance platform leveraging smart contracts for transparent and secure asset exchange on Ethereum.
+- **NFT Marketplace:** A full-stack NFT marketplace allowing creators to mint and auction NFTs with IPFS storage, utilizing Solidity and Web3.js.
 
-</td><td valign="top" width="33%">
+---
 
+### 🌍 **Blockchain & Web Links**
+- **GateNet:** [GateNet.io](https://gatenet.io/)  
+- **GymNetwork:** [GymNetwork.io](https://gymnetwork.io/)
 
+---
 
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>  
-
-
-
-### Database  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-</div>
-
-</td></tr></table> 
+**Let’s connect and build the future of tech together!**
